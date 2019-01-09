@@ -8,6 +8,9 @@ To create master/repository in Git
 2. Pull : Fetch and merge(fetch all the changes in local repository and merge with working copy)
 3. Fetch : Fetch changes from master and merge with local repository.
 
+Git Commands:
+git config --list 
+
 
 
 
