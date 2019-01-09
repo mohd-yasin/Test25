@@ -1,0 +1,14 @@
+To create master/repository in Git 
+
+1. Git add : Add working copy to local repository
+2. Git commit : Commit working copy changes to local repository
+3. Git push : Push local repository committed changed to master repository
+
+1. Clone : Clone the remote repository to local reposity
+2. Pull : Fetch and merge(fetch all the changes in local repository and merge with working copy)
+3. Fetch : Fetch changes from master and merge with local repository.
+
+
+
+
+
