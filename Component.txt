@@ -11,7 +11,7 @@ To create master/repository in Git
 Git Commands:
 git config --list 
 
-Update in Remote.
+Update in Remote.......
 
 
 
